@@ -32,12 +32,6 @@
 - Data Querying & Analysis  
 
 ---  
-## 🚀 How to Run the Queries  
-1. Import the dataset into your SQL database.  
-2. Open your SQL client or command-line tool.  
-3. Run the queries from the `queries/` folder to explore the dataset.  
-
----  
 ## 📊 Key Insights  
 - The restaurant offers a diverse range of dishes across multiple categories.  
 - Some dishes are significantly more popular than others.  
