@@ -32,16 +32,6 @@
 - Data Querying & Analysis  
 
 ---  
-## 📂 Project Structure  
-```
-SQLicious/
-│── queries/                   # SQL queries for analysis  
-│   ├── explore_items.sql       # Queries related to menu analysis  
-│   ├── explore_orders.sql      # Queries for order analysis  
-│   ├── customer_behavior.sql   # Queries for customer insights  
-│── data/                      # Sample dataset (if applicable)  
-│── README.md                  # Project documentation  
-```
 
 ---  
 ## 🚀 How to Run the Queries  
