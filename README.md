@@ -32,8 +32,6 @@
 - Data Querying & Analysis  
 
 ---  
-
----  
 ## 🚀 How to Run the Queries  
 1. Import the dataset into your SQL database.  
 2. Open your SQL client or command-line tool.  
